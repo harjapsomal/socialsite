@@ -1,5 +1,19 @@
 .App {
   text-align: center;
+  display: flex;
+  width: 60%;
+  margin: auto;
+}
+
+.addform {
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 22px;
+}
+
+.completeform {
+  width: 50%;
+  margin: 50px;
 }
 
 .App-logo {
